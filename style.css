@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Clone</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Image Clone Example</h1>
+        </header>
+        <main>
+            <section class="image-section">
+                <img src="images/image1.jpg" alt="Image 1">
+                <img src="images/image2.jpg" alt="Image 2">
+                <img src="images/image3.jpg" alt="Image 3">
+            </section>
+            <section class="text-section">
+                <h2>Sample Text</h2>
+                <p>This is an example of a simple layout with images and text. Replace this text and images with content matching the design you need to clone.</p>
+            </section>
+        </main>
+        <footer>
+            <p>&copy; 2024 Your Name</p>
+        </footer>
+    </div>
+</body>
+</html>
